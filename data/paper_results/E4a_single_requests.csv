@@ -1,0 +1,7 @@
+destination,share_differing_pct,n_differing,share_faster_pct,median_delta_time_s,share_less_exposure_pct,median_delta_exposure_s
+Restroom,0.3,14,50,-2,21,0
+Food,7.3,305,96,-76,42,0
+Exit,19.7,826,14,10,81,-12
+First aid,11.1,466,2,44,87,-28
+Seat,0.0,0,,,,
+All,7.7,1611,27,10,75,-13

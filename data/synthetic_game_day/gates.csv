@@ -1,0 +1,1081 @@
+time,phase,segment,gate,open,throughput_per_min,queue_people,confidence
+18:30:00,PRE-GAME,A_continuous_18:30-22:33,A,true,9.7,0,0.93
+18:30:00,PRE-GAME,A_continuous_18:30-22:33,B,true,13.6,0,0.93
+18:30:00,PRE-GAME,A_continuous_18:30-22:33,C,true,9.0,0,0.93
+18:30:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:31:00,PRE-GAME,A_continuous_18:30-22:33,A,true,10.6,0,0.93
+18:31:00,PRE-GAME,A_continuous_18:30-22:33,B,true,14.9,0,0.93
+18:31:00,PRE-GAME,A_continuous_18:30-22:33,C,true,9.9,0,0.93
+18:31:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:32:00,PRE-GAME,A_continuous_18:30-22:33,A,true,11.5,0,0.93
+18:32:00,PRE-GAME,A_continuous_18:30-22:33,B,true,16.2,0,0.93
+18:32:00,PRE-GAME,A_continuous_18:30-22:33,C,true,10.8,0,0.93
+18:32:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:33:00,PRE-GAME,A_continuous_18:30-22:33,A,true,12.5,0,0.93
+18:33:00,PRE-GAME,A_continuous_18:30-22:33,B,true,17.5,0,0.93
+18:33:00,PRE-GAME,A_continuous_18:30-22:33,C,true,11.7,0,0.93
+18:33:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:34:00,PRE-GAME,A_continuous_18:30-22:33,A,true,13.6,0,0.93
+18:34:00,PRE-GAME,A_continuous_18:30-22:33,B,true,19.0,0,0.93
+18:34:00,PRE-GAME,A_continuous_18:30-22:33,C,true,12.7,0,0.93
+18:34:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:35:00,PRE-GAME,A_continuous_18:30-22:33,A,true,14.6,0,0.93
+18:35:00,PRE-GAME,A_continuous_18:30-22:33,B,true,20.5,0,0.93
+18:35:00,PRE-GAME,A_continuous_18:30-22:33,C,true,13.7,0,0.93
+18:35:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:36:00,PRE-GAME,A_continuous_18:30-22:33,A,true,15.8,0,0.93
+18:36:00,PRE-GAME,A_continuous_18:30-22:33,B,true,22.1,0,0.93
+18:36:00,PRE-GAME,A_continuous_18:30-22:33,C,true,14.7,0,0.93
+18:36:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:37:00,PRE-GAME,A_continuous_18:30-22:33,A,true,17.0,0,0.93
+18:37:00,PRE-GAME,A_continuous_18:30-22:33,B,true,23.8,0,0.93
+18:37:00,PRE-GAME,A_continuous_18:30-22:33,C,true,15.9,0,0.93
+18:37:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:38:00,PRE-GAME,A_continuous_18:30-22:33,A,true,18.3,0,0.93
+18:38:00,PRE-GAME,A_continuous_18:30-22:33,B,true,25.6,0,0.93
+18:38:00,PRE-GAME,A_continuous_18:30-22:33,C,true,17.0,0,0.93
+18:38:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:39:00,PRE-GAME,A_continuous_18:30-22:33,A,true,19.6,0,0.93
+18:39:00,PRE-GAME,A_continuous_18:30-22:33,B,true,27.4,0,0.93
+18:39:00,PRE-GAME,A_continuous_18:30-22:33,C,true,18.3,0,0.93
+18:39:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:40:00,PRE-GAME,A_continuous_18:30-22:33,A,true,20.9,0,0.93
+18:40:00,PRE-GAME,A_continuous_18:30-22:33,B,true,29.3,0,0.93
+18:40:00,PRE-GAME,A_continuous_18:30-22:33,C,true,19.5,0,0.93
+18:40:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:41:00,PRE-GAME,A_continuous_18:30-22:33,A,true,22.3,0,0.93
+18:41:00,PRE-GAME,A_continuous_18:30-22:33,B,true,31.3,0,0.93
+18:41:00,PRE-GAME,A_continuous_18:30-22:33,C,true,20.8,0,0.93
+18:41:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:42:00,PRE-GAME,A_continuous_18:30-22:33,A,true,23.8,0,0.93
+18:42:00,PRE-GAME,A_continuous_18:30-22:33,B,true,33.3,0,0.93
+18:42:00,PRE-GAME,A_continuous_18:30-22:33,C,true,22.2,0,0.93
+18:42:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:43:00,PRE-GAME,A_continuous_18:30-22:33,A,true,25.3,0,0.93
+18:43:00,PRE-GAME,A_continuous_18:30-22:33,B,true,35.4,0,0.93
+18:43:00,PRE-GAME,A_continuous_18:30-22:33,C,true,23.6,0,0.93
+18:43:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:44:00,PRE-GAME,A_continuous_18:30-22:33,A,true,26.8,0,0.93
+18:44:00,PRE-GAME,A_continuous_18:30-22:33,B,true,37.5,0,0.93
+18:44:00,PRE-GAME,A_continuous_18:30-22:33,C,true,25.0,0,0.93
+18:44:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:45:00,PRE-GAME,A_continuous_18:30-22:33,A,true,28.4,0,0.93
+18:45:00,PRE-GAME,A_continuous_18:30-22:33,B,true,39.7,0,0.93
+18:45:00,PRE-GAME,A_continuous_18:30-22:33,C,true,26.5,0,0.93
+18:45:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:46:00,PRE-GAME,A_continuous_18:30-22:33,A,true,30.0,0,0.93
+18:46:00,PRE-GAME,A_continuous_18:30-22:33,B,true,42.0,0,0.93
+18:46:00,PRE-GAME,A_continuous_18:30-22:33,C,true,28.0,0,0.93
+18:46:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:47:00,PRE-GAME,A_continuous_18:30-22:33,A,true,31.6,0,0.93
+18:47:00,PRE-GAME,A_continuous_18:30-22:33,B,true,44.2,0,0.93
+18:47:00,PRE-GAME,A_continuous_18:30-22:33,C,true,29.5,0,0.93
+18:47:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:48:00,PRE-GAME,A_continuous_18:30-22:33,A,true,33.2,0,0.93
+18:48:00,PRE-GAME,A_continuous_18:30-22:33,B,true,46.5,0,0.93
+18:48:00,PRE-GAME,A_continuous_18:30-22:33,C,true,31.0,0,0.93
+18:48:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:49:00,PRE-GAME,A_continuous_18:30-22:33,A,true,34.9,0,0.93
+18:49:00,PRE-GAME,A_continuous_18:30-22:33,B,true,48.9,0,0.93
+18:49:00,PRE-GAME,A_continuous_18:30-22:33,C,true,32.6,0,0.93
+18:49:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:50:00,PRE-GAME,A_continuous_18:30-22:33,A,true,36.6,0,0.93
+18:50:00,PRE-GAME,A_continuous_18:30-22:33,B,true,51.2,0,0.93
+18:50:00,PRE-GAME,A_continuous_18:30-22:33,C,true,34.1,0,0.93
+18:50:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:51:00,PRE-GAME,A_continuous_18:30-22:33,A,true,38.2,0,0.93
+18:51:00,PRE-GAME,A_continuous_18:30-22:33,B,true,53.5,0,0.93
+18:51:00,PRE-GAME,A_continuous_18:30-22:33,C,true,35.7,0,0.93
+18:51:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:52:00,PRE-GAME,A_continuous_18:30-22:33,A,true,39.9,0,0.93
+18:52:00,PRE-GAME,A_continuous_18:30-22:33,B,true,55.8,0,0.93
+18:52:00,PRE-GAME,A_continuous_18:30-22:33,C,true,37.2,0,0.93
+18:52:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:53:00,PRE-GAME,A_continuous_18:30-22:33,A,true,41.5,0,0.93
+18:53:00,PRE-GAME,A_continuous_18:30-22:33,B,true,58.1,0,0.93
+18:53:00,PRE-GAME,A_continuous_18:30-22:33,C,true,38.7,0,0.93
+18:53:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:54:00,PRE-GAME,A_continuous_18:30-22:33,A,true,43.1,0,0.93
+18:54:00,PRE-GAME,A_continuous_18:30-22:33,B,true,60.4,0,0.93
+18:54:00,PRE-GAME,A_continuous_18:30-22:33,C,true,40.3,0,0.93
+18:54:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:55:00,PRE-GAME,A_continuous_18:30-22:33,A,true,44.7,0,0.93
+18:55:00,PRE-GAME,A_continuous_18:30-22:33,B,true,62.6,0,0.93
+18:55:00,PRE-GAME,A_continuous_18:30-22:33,C,true,41.7,0,0.93
+18:55:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:56:00,PRE-GAME,A_continuous_18:30-22:33,A,true,46.3,0,0.93
+18:56:00,PRE-GAME,A_continuous_18:30-22:33,B,true,64.8,0,0.93
+18:56:00,PRE-GAME,A_continuous_18:30-22:33,C,true,43.2,0,0.93
+18:56:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:57:00,PRE-GAME,A_continuous_18:30-22:33,A,true,47.8,0,0.93
+18:57:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,1,0.93
+18:57:00,PRE-GAME,A_continuous_18:30-22:33,C,true,44.6,0,0.93
+18:57:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:58:00,PRE-GAME,A_continuous_18:30-22:33,A,true,49.4,0,0.93
+18:58:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,3,0.93
+18:58:00,PRE-GAME,A_continuous_18:30-22:33,C,true,46.1,0,0.93
+18:58:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+18:59:00,PRE-GAME,A_continuous_18:30-22:33,A,true,51.0,0,0.93
+18:59:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,8,0.93
+18:59:00,PRE-GAME,A_continuous_18:30-22:33,C,true,47.6,0,0.93
+18:59:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:00:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,0,0.93
+19:00:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,14,0.93
+19:00:00,PRE-GAME,A_continuous_18:30-22:33,C,true,49.1,0,0.93
+19:00:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:01:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,2,0.93
+19:01:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,21,0.93
+19:01:00,PRE-GAME,A_continuous_18:30-22:33,C,true,50.7,0,0.93
+19:01:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:02:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,4,0.93
+19:02:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,29,0.93
+19:02:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,0,0.93
+19:02:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:03:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,8,0.93
+19:03:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,38,0.93
+19:03:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,1,0.93
+19:03:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:04:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,14,0.93
+19:04:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,49,0.93
+19:04:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,4,0.93
+19:04:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:05:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,19,0.93
+19:05:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,57,0.93
+19:05:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,8,0.93
+19:05:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:06:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,27,0.93
+19:06:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,70,0.93
+19:06:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,13,0.93
+19:06:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:07:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,33,0.93
+19:07:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,78,0.93
+19:07:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,18,0.93
+19:07:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:08:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,42,0.93
+19:08:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,91,0.93
+19:08:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,26,0.93
+19:08:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:09:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,53,0.93
+19:09:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,109,0.93
+19:09:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,35,0.93
+19:09:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:10:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,65,0.93
+19:10:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,126,0.93
+19:10:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,45,0.93
+19:10:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:11:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,69,0.93
+19:11:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,128,0.93
+19:11:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,50,0.93
+19:11:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:12:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,79,0.93
+19:12:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,143,0.93
+19:12:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,59,0.93
+19:12:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:13:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,88,0.93
+19:13:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,154,0.93
+19:13:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,68,0.93
+19:13:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:14:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,105,0.93
+19:14:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,179,0.93
+19:14:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,82,0.93
+19:14:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:15:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,109,0.93
+19:15:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,182,0.93
+19:15:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,87,0.93
+19:15:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:16:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,110,0.93
+19:16:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,182,0.93
+19:16:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,89,0.93
+19:16:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:17:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,124,0.93
+19:17:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,203,0.93
+19:17:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,102,0.93
+19:17:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:18:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,129,0.93
+19:18:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,208,0.93
+19:18:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,106,0.93
+19:18:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:19:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,136,0.93
+19:19:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,219,0.93
+19:19:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,112,0.93
+19:19:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:20:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,133,0.93
+19:20:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,214,0.93
+19:20:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,110,0.93
+19:20:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:21:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,132,0.93
+19:21:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,212,0.93
+19:21:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,109,0.93
+19:21:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:22:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,132,0.93
+19:22:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,214,0.93
+19:22:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,108,0.93
+19:22:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:23:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,121,0.93
+19:23:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,199,0.93
+19:23:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,99,0.93
+19:23:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:24:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,117,0.93
+19:24:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,194,0.93
+19:24:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,93,0.93
+19:24:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:25:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,103,0.93
+19:25:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,176,0.93
+19:25:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,80,0.93
+19:25:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:26:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,94,0.93
+19:26:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,166,0.93
+19:26:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,70,0.93
+19:26:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:27:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,79,0.93
+19:27:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,148,0.93
+19:27:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,55,0.93
+19:27:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:28:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,59,0.93
+19:28:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,122,0.93
+19:28:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,35,0.93
+19:28:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:29:00,PRE-GAME,A_continuous_18:30-22:33,A,true,52.0,39,0.93
+19:29:00,PRE-GAME,A_continuous_18:30-22:33,B,true,65.0,98,0.93
+19:29:00,PRE-GAME,A_continuous_18:30-22:33,C,true,52.0,14,0.93
+19:29:00,PRE-GAME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:30:00,1ST HALF,A_continuous_18:30-22:33,A,true,52.0,14,0.93
+19:30:00,1ST HALF,A_continuous_18:30-22:33,B,true,65.0,65,0.93
+19:30:00,1ST HALF,A_continuous_18:30-22:33,C,true,26.6,0,0.93
+19:30:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:31:00,1ST HALF,A_continuous_18:30-22:33,A,true,24.8,0,0.93
+19:31:00,1ST HALF,A_continuous_18:30-22:33,B,true,65.0,36,0.93
+19:31:00,1ST HALF,A_continuous_18:30-22:33,C,true,23.2,0,0.93
+19:31:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:32:00,1ST HALF,A_continuous_18:30-22:33,A,true,21.8,0,0.93
+19:32:00,1ST HALF,A_continuous_18:30-22:33,B,true,65.0,1,0.93
+19:32:00,1ST HALF,A_continuous_18:30-22:33,C,true,20.3,0,0.93
+19:32:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:33:00,1ST HALF,A_continuous_18:30-22:33,A,true,19.6,0,0.93
+19:33:00,1ST HALF,A_continuous_18:30-22:33,B,true,27.4,0,0.93
+19:33:00,1ST HALF,A_continuous_18:30-22:33,C,true,18.3,0,0.93
+19:33:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:34:00,1ST HALF,A_continuous_18:30-22:33,A,true,17.6,0,0.93
+19:34:00,1ST HALF,A_continuous_18:30-22:33,B,true,24.6,0,0.93
+19:34:00,1ST HALF,A_continuous_18:30-22:33,C,true,16.4,0,0.93
+19:34:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:35:00,1ST HALF,A_continuous_18:30-22:33,A,true,15.7,0,0.93
+19:35:00,1ST HALF,A_continuous_18:30-22:33,B,true,21.9,0,0.93
+19:35:00,1ST HALF,A_continuous_18:30-22:33,C,true,14.6,0,0.93
+19:35:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:36:00,1ST HALF,A_continuous_18:30-22:33,A,true,13.9,0,0.93
+19:36:00,1ST HALF,A_continuous_18:30-22:33,B,true,19.4,0,0.93
+19:36:00,1ST HALF,A_continuous_18:30-22:33,C,true,13.0,0,0.93
+19:36:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:37:00,1ST HALF,A_continuous_18:30-22:33,A,true,12.3,0,0.93
+19:37:00,1ST HALF,A_continuous_18:30-22:33,B,true,17.2,0,0.93
+19:37:00,1ST HALF,A_continuous_18:30-22:33,C,true,11.4,0,0.93
+19:37:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:38:00,1ST HALF,A_continuous_18:30-22:33,A,true,10.8,0,0.93
+19:38:00,1ST HALF,A_continuous_18:30-22:33,B,true,15.1,0,0.93
+19:38:00,1ST HALF,A_continuous_18:30-22:33,C,true,10.0,0,0.93
+19:38:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:39:00,1ST HALF,A_continuous_18:30-22:33,A,true,9.4,0,0.93
+19:39:00,1ST HALF,A_continuous_18:30-22:33,B,true,13.2,0,0.93
+19:39:00,1ST HALF,A_continuous_18:30-22:33,C,true,8.8,0,0.93
+19:39:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:40:00,1ST HALF,A_continuous_18:30-22:33,A,true,8.2,0,0.93
+19:40:00,1ST HALF,A_continuous_18:30-22:33,B,true,11.4,0,0.93
+19:40:00,1ST HALF,A_continuous_18:30-22:33,C,true,7.6,0,0.93
+19:40:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:41:00,1ST HALF,A_continuous_18:30-22:33,A,true,7.1,0,0.93
+19:41:00,1ST HALF,A_continuous_18:30-22:33,B,true,9.9,0,0.93
+19:41:00,1ST HALF,A_continuous_18:30-22:33,C,true,6.6,0,0.93
+19:41:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:42:00,1ST HALF,A_continuous_18:30-22:33,A,true,6.1,0,0.93
+19:42:00,1ST HALF,A_continuous_18:30-22:33,B,true,8.5,0,0.93
+19:42:00,1ST HALF,A_continuous_18:30-22:33,C,true,5.7,0,0.93
+19:42:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:43:00,1ST HALF,A_continuous_18:30-22:33,A,true,5.2,0,0.93
+19:43:00,1ST HALF,A_continuous_18:30-22:33,B,true,7.3,0,0.93
+19:43:00,1ST HALF,A_continuous_18:30-22:33,C,true,4.9,0,0.93
+19:43:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:44:00,1ST HALF,A_continuous_18:30-22:33,A,true,4.4,0,0.93
+19:44:00,1ST HALF,A_continuous_18:30-22:33,B,true,6.2,0,0.93
+19:44:00,1ST HALF,A_continuous_18:30-22:33,C,true,4.1,0,0.93
+19:44:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:45:00,1ST HALF,A_continuous_18:30-22:33,A,true,3.8,0,0.93
+19:45:00,1ST HALF,A_continuous_18:30-22:33,B,true,5.3,0,0.93
+19:45:00,1ST HALF,A_continuous_18:30-22:33,C,true,3.5,0,0.93
+19:45:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:46:00,1ST HALF,A_continuous_18:30-22:33,A,true,3.2,0,0.93
+19:46:00,1ST HALF,A_continuous_18:30-22:33,B,true,4.4,0,0.93
+19:46:00,1ST HALF,A_continuous_18:30-22:33,C,true,3.0,0,0.93
+19:46:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:47:00,1ST HALF,A_continuous_18:30-22:33,A,true,2.7,0,0.93
+19:47:00,1ST HALF,A_continuous_18:30-22:33,B,true,3.7,0,0.93
+19:47:00,1ST HALF,A_continuous_18:30-22:33,C,true,2.5,0,0.93
+19:47:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:48:00,1ST HALF,A_continuous_18:30-22:33,A,true,2.2,0,0.93
+19:48:00,1ST HALF,A_continuous_18:30-22:33,B,true,3.1,0,0.93
+19:48:00,1ST HALF,A_continuous_18:30-22:33,C,true,2.1,0,0.93
+19:48:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:49:00,1ST HALF,A_continuous_18:30-22:33,A,true,1.8,0,0.93
+19:49:00,1ST HALF,A_continuous_18:30-22:33,B,true,2.6,0,0.93
+19:49:00,1ST HALF,A_continuous_18:30-22:33,C,true,1.7,0,0.93
+19:49:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:50:00,1ST HALF,A_continuous_18:30-22:33,A,true,1.5,0,0.93
+19:50:00,1ST HALF,A_continuous_18:30-22:33,B,true,2.1,0,0.93
+19:50:00,1ST HALF,A_continuous_18:30-22:33,C,true,1.4,0,0.93
+19:50:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:51:00,1ST HALF,A_continuous_18:30-22:33,A,true,1.2,0,0.93
+19:51:00,1ST HALF,A_continuous_18:30-22:33,B,true,1.7,0,0.93
+19:51:00,1ST HALF,A_continuous_18:30-22:33,C,true,1.2,0,0.93
+19:51:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:52:00,1ST HALF,A_continuous_18:30-22:33,A,true,1.0,0,0.93
+19:52:00,1ST HALF,A_continuous_18:30-22:33,B,true,1.4,0,0.93
+19:52:00,1ST HALF,A_continuous_18:30-22:33,C,true,1.0,0,0.93
+19:52:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:53:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.8,0,0.93
+19:53:00,1ST HALF,A_continuous_18:30-22:33,B,true,1.2,0,0.93
+19:53:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.8,0,0.93
+19:53:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:54:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.7,0,0.93
+19:54:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.9,0,0.93
+19:54:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.6,0,0.93
+19:54:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:55:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.5,0,0.93
+19:55:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.8,0,0.93
+19:55:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.5,0,0.93
+19:55:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:56:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.4,0,0.93
+19:56:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.6,0,0.93
+19:56:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.4,0,0.93
+19:56:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:57:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.3,0,0.93
+19:57:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.5,0,0.93
+19:57:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.3,0,0.93
+19:57:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:58:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.3,0,0.93
+19:58:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.4,0,0.93
+19:58:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.3,0,0.93
+19:58:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+19:59:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.2,0,0.93
+19:59:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.3,0,0.93
+19:59:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.2,0,0.93
+19:59:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:00:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.2,0,0.93
+20:00:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.2,0,0.93
+20:00:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.2,0,0.93
+20:00:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:01:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.1,0,0.93
+20:01:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.2,0,0.93
+20:01:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.1,0,0.93
+20:01:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:02:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.1,0,0.93
+20:02:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.1,0,0.93
+20:02:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.1,0,0.93
+20:02:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:03:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.1,0,0.93
+20:03:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.1,0,0.93
+20:03:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.1,0,0.93
+20:03:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:04:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.1,0,0.93
+20:04:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.1,0,0.93
+20:04:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.1,0,0.93
+20:04:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:05:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:05:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.1,0,0.93
+20:05:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:05:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:06:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:06:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:06:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:06:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:07:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:07:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:07:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:07:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:08:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:08:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:08:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:08:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:09:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:09:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:09:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:09:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:10:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:10:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:10:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:10:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:11:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:11:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:11:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:11:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:12:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:12:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:12:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:12:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:13:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:13:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:13:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:13:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:14:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:14:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:14:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:14:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:15:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:15:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:15:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:15:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:16:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:16:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:16:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:16:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:17:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:17:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:17:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:17:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:18:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:18:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:18:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:18:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:19:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:19:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:19:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:19:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:20:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:20:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:20:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:20:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:21:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:21:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:21:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:21:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:22:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:22:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:22:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:22:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:23:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:23:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:23:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:23:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:24:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:24:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:24:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:24:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:25:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:25:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:25:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:25:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:26:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:26:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:26:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:26:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:27:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:27:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:27:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:27:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:28:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:28:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:28:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:28:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:29:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:29:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:29:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:29:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:30:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:30:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:30:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:30:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:31:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:31:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:31:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:31:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:32:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:32:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:32:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:32:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:33:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:33:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:33:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:33:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:34:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:34:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:34:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:34:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:35:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:35:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:35:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:35:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:36:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:36:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:36:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:36:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:37:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:37:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:37:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:37:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:38:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:38:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:38:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:38:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:39:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:39:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:39:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:39:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:40:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:40:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:40:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:40:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:41:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:41:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:41:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:41:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:42:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:42:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:42:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:42:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:43:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:43:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:43:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:43:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:44:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:44:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:44:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:44:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:45:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:45:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:45:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:45:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:46:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:46:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:46:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:46:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:47:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:47:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:47:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:47:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:48:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:48:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:48:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:48:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:49:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:49:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:49:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:49:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:50:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:50:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:50:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:50:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:51:00,1ST HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:51:00,1ST HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:51:00,1ST HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:51:00,1ST HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:52:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:52:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:52:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:52:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:53:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:53:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:53:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:53:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:54:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:54:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:54:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:54:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:55:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:55:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:55:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:55:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:56:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:56:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:56:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:56:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:57:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:57:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:57:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:57:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:58:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:58:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:58:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:58:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+20:59:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+20:59:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+20:59:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+20:59:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:00:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:00:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:00:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:00:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:01:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:01:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:01:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:01:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:02:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:02:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:02:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:02:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:03:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:03:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:03:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:03:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:04:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:04:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:04:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:04:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:05:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:05:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:05:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:05:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:06:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:06:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:06:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:06:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:07:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:07:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:07:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:07:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:08:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:08:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:08:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:08:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:09:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:09:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:09:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:09:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:10:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:10:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:10:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:10:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:11:00,HALFTIME,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:11:00,HALFTIME,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:11:00,HALFTIME,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:11:00,HALFTIME,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:12:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:12:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:12:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:12:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:13:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:13:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:13:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:13:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:14:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:14:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:14:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:14:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:15:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:15:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:15:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:15:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:16:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:16:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:16:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:16:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:17:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:17:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:17:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:17:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:18:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:18:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:18:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:18:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:19:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:19:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:19:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:19:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:20:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:20:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:20:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:20:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:21:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:21:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:21:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:21:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:22:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:22:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:22:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:22:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:23:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:23:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:23:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:23:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:24:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:24:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:24:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:24:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:25:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:25:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:25:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:25:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:26:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:26:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:26:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:26:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:27:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:27:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:27:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:27:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:28:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:28:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:28:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:28:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:29:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:29:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:29:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:29:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:30:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:30:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:30:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:30:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:31:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:31:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:31:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:31:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:32:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:32:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:32:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:32:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:33:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:33:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:33:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:33:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:34:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:34:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:34:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:34:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:35:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:35:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:35:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:35:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:36:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:36:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:36:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:36:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:37:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:37:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:37:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:37:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:38:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:38:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:38:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:38:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:39:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:39:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:39:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:39:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:40:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:40:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:40:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:40:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:41:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:41:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:41:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:41:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:42:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:42:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:42:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:42:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:43:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:43:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:43:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:43:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:44:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:44:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:44:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:44:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:45:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:45:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:45:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:45:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:46:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:46:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:46:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:46:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:47:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:47:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:47:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:47:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:48:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:48:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:48:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:48:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:49:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:49:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:49:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:49:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:50:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:50:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:50:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:50:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:51:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:51:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:51:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:51:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:52:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:52:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:52:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:52:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:53:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:53:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:53:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:53:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:54:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:54:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:54:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:54:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:55:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:55:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:55:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:55:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:56:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:56:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:56:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:56:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:57:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:57:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:57:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:57:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:58:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:58:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:58:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:58:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+21:59:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+21:59:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+21:59:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+21:59:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:00:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:00:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:00:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:00:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:01:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:01:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:01:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:01:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:02:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:02:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:02:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:02:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:03:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:03:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:03:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:03:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:04:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:04:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:04:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:04:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:05:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:05:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:05:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:05:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:06:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:06:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:06:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:06:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:07:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:07:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:07:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:07:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:08:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:08:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:08:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:08:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:09:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:09:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:09:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:09:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:10:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:10:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:10:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:10:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:11:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:11:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:11:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:11:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:12:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:12:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:12:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:12:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:13:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:13:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:13:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:13:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:14:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:14:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:14:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:14:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:15:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:15:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:15:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:15:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:16:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:16:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:16:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:16:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:17:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:17:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:17:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:17:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:18:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:18:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:18:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:18:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:19:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:19:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:19:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:19:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:20:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:20:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:20:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:20:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:21:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:21:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:21:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:21:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:22:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:22:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:22:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:22:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:23:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:23:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:23:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:23:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:24:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:24:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:24:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:24:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:25:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:25:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:25:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:25:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:26:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:26:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:26:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:26:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:27:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:27:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:27:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:27:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:28:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:28:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:28:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:28:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:29:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:29:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:29:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:29:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:30:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:30:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:30:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:30:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:31:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:31:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:31:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:31:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:32:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:32:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:32:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:32:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:33:00,2ND HALF,A_continuous_18:30-22:33,A,true,0.0,0,0.93
+22:33:00,2ND HALF,A_continuous_18:30-22:33,B,true,0.0,0,0.93
+22:33:00,2ND HALF,A_continuous_18:30-22:33,C,true,0.0,0,0.93
+22:33:00,2ND HALF,A_continuous_18:30-22:33,D,false,0.0,0,0.93
+22:34:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:34:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:34:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:34:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:35:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:35:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:35:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:35:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:36:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:36:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:36:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:36:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:37:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:37:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:37:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:37:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:38:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:38:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:38:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:38:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:39:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:39:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:39:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:39:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:40:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:40:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:40:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:40:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:41:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:41:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:41:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:41:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:42:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:42:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:42:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:42:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:43:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:43:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:43:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:43:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:44:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:44:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:44:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:44:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:45:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:45:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:45:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:45:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:46:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:46:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:46:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:46:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:47:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:47:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:47:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:47:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:48:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:48:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:48:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:48:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:49:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:49:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:49:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:49:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:50:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:50:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:50:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:50:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:51:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:51:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:51:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:51:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:52:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:52:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:52:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:52:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:53:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:53:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:53:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:53:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:54:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:54:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:54:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:54:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:55:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:55:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:55:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:55:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:56:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:56:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:56:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:56:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:57:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:57:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:57:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:57:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:58:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:58:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:58:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:58:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93
+22:59:00,POST-GAME,B_postgame_reinit_22:34,A,true,0.0,0,0.93
+22:59:00,POST-GAME,B_postgame_reinit_22:34,B,true,0.0,0,0.93
+22:59:00,POST-GAME,B_postgame_reinit_22:34,C,true,0.0,0,0.93
+22:59:00,POST-GAME,B_postgame_reinit_22:34,D,false,0.0,0,0.93

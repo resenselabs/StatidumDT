@@ -1,0 +1,11 @@
+function,median_ms,p95_ms,calls,note
+"Model step, dt = 0.5 s",0.152,0.597,4000,
+"Model step, dt = 4 s",0.100,0.163,2000,
+Fusion of all zones (1 s of sensing),0.069,0.148,2000,
+"Anomaly rules, all zones",0.010,0.016,2000,
+"Live twin step (model, sensing, rules, forecast share)",0.198,0.411,4000,
+Snapshot with inserted estimates,0.084,0.176,500,
+"Forecast, 300 s horizon",11.112,28.379,100,
+Route request (two Dijkstra searches),0.202,0.392,1200,
+Responder route,0.251,0.400,500,
+Scenario pair to completion (median over 9 scenarios),123,241,27,p95 column holds the maximum over the 9 scenarios

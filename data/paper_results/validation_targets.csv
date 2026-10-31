@@ -1,0 +1,6 @@
+target,evidence,status
+End-to-end telemetry latency under 5 s,"Twin core: 0.2 ms per step, 11 ms per forecast (E7). WiFi windows add up to 30 s for that source; fused estimates lag the truth by up to 16 s with cameras and by 36 to 47 s without them (E1). Network and edge inference not measured.",Not validated; computation is not limiting; source latency matters
+Density-anomaly detection within 30 s,"Released rule: 5 of 19 episodes within 30 s, median 41 s. Uncertainty-aware rule (z = 1.645): 15 of 19, median 17 s, 0.074 false alarms per zone-hour (E3).",Not met by the released rule in simulation; reachable in simulation with a design change
+Bottleneck forecast horizon of 2 to 5 min,"With rate correction, density MAE 0.050 at +2 min and 0.052 at +5 min; threshold-event F1 0.72 and crossing-time error 20 s (E2). Without rate correction, pre-game forecasts are worse than persistence.",Feasible in simulation with rate correction; untested on real data
+Clearance-time error within 10%,Not measurable without observed clearances. Changing the speed–density relation alters some intervention effects by up to 14 percentage points and the sign of one peak-density effect (E6).,Not validated; model-form uncertainty exceeds the target for some scenarios
+Sub-metre alignment at surveyed points,The testbed layout is a stylised concept without survey data.,Not addressed

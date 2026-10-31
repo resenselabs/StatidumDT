@@ -1,0 +1,269 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>STADIUM-DT · Beaver Stadium Command</title>
+<meta name="stadiumdt-version" content="1.0">
+<meta name="description" content="Concept demonstration of a privacy-preserving stadium digital twin for crowd safety, prediction and navigation. Synthetic data only.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600;700;800&family=Figtree:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-bell" viewBox="0 0 24 24"><path d="M6 16.5V11a6 6 0 0112 0v5.5l1.6 1.8H4.4z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M10 20.5a2.2 2.2 0 004 0" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M19.5 14.5A8 8 0 019.5 4.5a8 8 0 1010 10z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4.2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 2.8v2.4M12 18.8v2.4M2.8 12h2.4M18.8 12h2.4M5.5 5.5l1.7 1.7M16.8 16.8l1.7 1.7M5.5 18.5l1.7-1.7M16.8 7.2l1.7-1.7" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-cloud" viewBox="0 0 24 24"><path d="M7 18h10a4 4 0 00.6-7.95A5.5 5.5 0 006.9 9.3 4.4 4.4 0 007 18z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-rain" viewBox="0 0 24 24"><path d="M7 14h10a3.6 3.6 0 00.5-7.2A5 5 0 007.1 6.1 4 4 0 007 14z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M8.5 17l-1 3M12.5 17l-1 3M16.5 17l-1 3" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-bolt" viewBox="0 0 24 24"><path d="M7 13h10a3.6 3.6 0 00.5-7.2A5 5 0 007.1 5.1 4 4 0 007 13z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M12.5 14l-2.5 4h3l-2 4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/></symbol>
+    <symbol id="i-play" viewBox="0 0 24 24"><path d="M8 5.5v13l10.5-6.5z" fill="currentColor"/></symbol>
+    <symbol id="i-pause" viewBox="0 0 24 24"><rect x="6.5" y="5.5" width="3.8" height="13" rx="1" fill="currentColor"/><rect x="13.7" y="5.5" width="3.8" height="13" rx="1" fill="currentColor"/></symbol>
+    <symbol id="i-back" viewBox="0 0 24 24"><path d="M17.5 6v12L9 12z" fill="currentColor"/><rect x="6" y="6" width="2.4" height="12" rx="0.8" fill="currentColor"/></symbol>
+    <symbol id="i-fwd" viewBox="0 0 24 24"><path d="M6.5 6v12L15 12z" fill="currentColor"/><rect x="15.6" y="6" width="2.4" height="12" rx="0.8" fill="currentColor"/></symbol>
+    <symbol id="i-reset" viewBox="0 0 24 24"><path d="M5 12a7 7 0 107-7H8.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><path d="M9.5 2.5L6.5 5l3 2.6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="M6.5 6.5l11 11M17.5 6.5l-11 11" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-chev" viewBox="0 0 24 24"><path d="M8 10l4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="12" cy="12" r="2.4" fill="currentColor"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-flag" viewBox="0 0 24 24"><path d="M6 21V4M6 4h11l-2.5 4L17 12H6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" stroke-linecap="round"/></symbol>
+    <symbol id="i-logo" viewBox="0 0 40 40"><ellipse cx="20" cy="20" rx="17" ry="12.5" fill="none" stroke="#FFB547" stroke-width="2.2"/><ellipse cx="20" cy="20" rx="10.5" ry="6.6" fill="none" stroke="#9678C8" stroke-width="1.8"/><rect x="14.5" y="17" width="11" height="6" rx="1" fill="#91B49A"/><path d="M3 20h4M33 20h4" stroke="#FFB547" stroke-width="2.2" stroke-linecap="round"/><circle cx="20" cy="7.5" r="1.6" fill="#F8F1E7"/></symbol>
+  </defs>
+</svg>
+
+<div class="app" id="app">
+  <canvas id="scene" tabindex="0" aria-label="Three-dimensional stadium digital twin. Left-drag pans, right-drag rotates, scroll zooms, double-click focuses the selection. Arrow keys pan and plus or minus zoom when the scene has focus."></canvas>
+  <div id="labels" class="labels"></div>
+  <div class="replay-veil" id="replayVeil" hidden><span class="mono">REPLAY</span><b id="replayClock">--:--:--</b></div>
+  <div class="sim-veil" id="simVeil" hidden><span class="mono" id="simVeilText">SIMULATION · NOT LIVE</span></div>
+
+  <!-- ===================== top bar ===================== -->
+  <header class="topbar" role="banner">
+    <div class="brand glass">
+      <svg width="34" height="34" aria-hidden="true"><use href="#i-logo"/></svg>
+      <div class="brand-text">
+        <div class="brand-name">STADIUM-DT <span class="slash">//</span> <span class="brand-sub-inline">BEAVER STADIUM COMMAND</span></div>
+        <div class="badge-row"><span class="badge" id="conceptBadge" title="Concept demonstration. All data are synthetic.">CONCEPT DEMO • SYNTHETIC DATA</span></div>
+      </div>
+    </div>
+    <div class="search glass" role="search">
+      <svg width="16" height="16" aria-hidden="true"><use href="#i-search"/></svg>
+      <label for="search" class="sr">Search zones, gates, stairs, restrooms, medical station or sections</label>
+      <input id="search" type="search" autocomplete="off" spellcheck="false" placeholder="Search zone, gate, stair…" aria-controls="searchList" aria-expanded="false">
+      <div class="search-list" id="searchList" role="listbox" hidden></div>
+    </div>
+    <div class="tb-right">
+      <label class="sr" for="areaSel">Area</label>
+      <select id="areaSel" class="tsel glass" title="Camera area"></select>
+      <label class="sr" for="phaseSel">Game-day phase</label>
+      <select id="phaseSel" class="tsel glass" title="Game-day phase (simulated)"></select>
+      <div class="pop-wrap">
+        <button class="tbtn glass" id="weatherBtn" aria-haspopup="true" aria-expanded="false" title="Weather (simulated)"><svg width="18" height="18" aria-hidden="true"><use href="#i-cloud" id="weatherIcon"/></svg><span class="tb-lbl" id="weatherLbl">Clear</span></button>
+        <div class="popover glass" id="weatherPop" hidden role="menu">
+          <div class="pop-h">Simulated weather</div>
+          <button role="menuitemradio" data-w="clear" aria-checked="true"><svg width="16" height="16"><use href="#i-cloud"/></svg>Clear, 14 °C</button>
+          <button role="menuitemradio" data-w="rain" aria-checked="false"><svg width="16" height="16"><use href="#i-rain"/></svg>Rain, walking speed −8%</button>
+          <button role="menuitemradio" data-w="storm" aria-checked="false"><svg width="16" height="16"><use href="#i-bolt"/></svg>Lightning within 10 mi</button>
+          <p class="pop-note">Weather changes walking speed in the model and can trigger the severe-weather scenario. Synthetic.</p>
+        </div>
+      </div>
+      <div class="clock glass" title="Simulated game-day clock">
+        <button class="clock-sp mono" id="clockSpeed" title="Demo clock speed (click to change, P to pause)">1×</button>
+        <div class="clock-t mono" id="clockT">19:06:00</div>
+        <div class="clock-s"><span id="clockPhase">PRE-GAME</span> · <span class="mono" id="clockGame">PRE</span></div>
+      </div>
+      <button class="tbtn glass alert-btn" id="alertBtn" title="Open alerts"><svg width="18" height="18" aria-hidden="true"><use href="#i-bell"/></svg><span class="alert-n mono" id="alertN">0</span><span class="sr">open alerts</span></button>
+      <button class="tbtn glass" id="dayBtn" aria-pressed="false" title="Switch to day lighting"><svg width="18" height="18" aria-hidden="true"><use href="#i-sun" id="dayIcon"/></svg><span class="sr">Day or night</span></button>
+      <div class="pop-wrap">
+        <button class="avatar" id="avatarBtn" aria-haspopup="true" aria-expanded="false" title="Operator">OP</button>
+        <div class="popover glass right" id="avatarPop" hidden>
+          <div class="pop-h">Operator console (simulated)</div>
+          <p class="pop-note">Role: duty operator, pilot concourse. Actions are recorded in the audit timeline. Controls act on the simulated venue only.</p>
+          <button id="openTargets">Research targets</button>
+          <button id="openAbout">About this demonstration</button>
+          <button id="openKeys">Keyboard shortcuts</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===================== mode switcher ===================== -->
+  <div class="modebar">
+    <div class="modes glass" role="tablist" aria-label="Operational mode">
+      <button role="tab" data-mode="mirror" aria-selected="true"><b>MIRROR</b></button>
+      <button role="tab" data-mode="predict" aria-selected="false"><b>PREDICT</b></button>
+      <button role="tab" data-mode="simulate" aria-selected="false"><b>SIMULATE</b></button>
+      <button role="tab" data-mode="navigate" aria-selected="false"><b>NAVIGATE</b></button>
+      <button role="tab" data-mode="replay" aria-selected="false"><b>REPLAY</b></button>
+    </div>
+    <div class="mode-q" id="modeQ">What is happening now?</div>
+    <div class="horizon glass" id="horizonBar" hidden role="radiogroup" aria-label="Forecast horizon">
+      <button data-h="0" aria-checked="true" role="radio">NOW</button>
+      <button data-h="2" aria-checked="false" role="radio">+2 MIN</button>
+      <button data-h="5" aria-checked="false" role="radio">+5 MIN</button>
+      <span class="hz-note" id="hzNote">Forecast from the estimated state</span>
+    </div>
+  </div>
+
+  <!-- ===================== left column: KPIs, process tracker, route planner ===================== -->
+  <aside class="leftcol" id="leftcol" aria-label="Key indicators and pipeline">
+    <div class="kpi-head"><span class="eyebrow">SIMULATED OPERATIONAL VALUES</span><button class="linkbtn" id="targetsLink">Research targets</button></div>
+    <section class="kpi glass" id="kpi1" tabindex="0">
+      <div class="kpi-top"><span class="kpi-l">CROWD DENSITY</span><span class="chip" id="kpi1Lvl">MODERATE</span></div>
+      <div class="kpi-v"><b id="kpi1V">2.8</b><span class="kpi-u">people/m²</span></div>
+      <div class="kpi-sub"><span id="kpi1Sub">Selected pilot zone · CONC-W-014</span></div>
+      <canvas class="spark" id="kpi1Spark" width="260" height="34" aria-hidden="true"></canvas>
+    </section>
+    <section class="kpi glass" id="kpi2" tabindex="0">
+      <div class="kpi-top"><span class="kpi-l">NEXT BOTTLENECK</span><span class="chip warn" id="kpi2Lvl">FORECAST</span></div>
+      <div class="kpi-v"><b id="kpi2V" class="mono">03:20</b><span class="kpi-u" id="kpi2U">min:s</span></div>
+      <div class="kpi-sub"><span id="kpi2Sub">Predicted time to threshold</span></div>
+      <div class="kpi-foot mono" id="kpi2Foot">CONC-W-014 · horizon 5 min · threshold 3.5 p/m²</div>
+    </section>
+    <section class="kpi glass" id="kpi3" tabindex="0">
+      <div class="kpi-top"><span class="kpi-l">ESTIMATED CLEARANCE</span><span class="chip" id="kpi3Lvl">SIM</span></div>
+      <div class="kpi-v"><b id="kpi3V" class="mono">--</b></div>
+      <div class="kpi-sub"><span id="kpi3Sub">Current simulation scenario</span></div>
+      <div class="kpi-foot mono" id="kpi3Foot">Full-catchment egress, current configuration</div>
+    </section>
+
+    <section class="process glass" id="process" aria-label="Digital twin pipeline">
+      <div class="panel-h"><span class="eyebrow">DIGITAL TWIN LOOP</span><span class="mono dim" id="procRate">1 Hz fusion</span></div>
+      <ol class="steps" id="steps"></ol>
+      <div class="step-detail" id="stepDetail" hidden></div>
+    </section>
+
+    <section class="planner glass" id="planner" hidden aria-label="Spectator route planner">
+      <div class="phone-notch" aria-hidden="true"></div>
+      <div class="panel-h"><span class="eyebrow" id="plannerTitle">SPECTATOR ROUTE PLANNER</span><span class="chip">SIMULATED</span></div>
+      <div class="role-seg" role="radiogroup" aria-label="Role">
+        <button role="radio" data-role="spectator" aria-checked="true">Spectator</button>
+        <button role="radio" data-role="access" aria-checked="false">Accessibility</button>
+        <button role="radio" data-role="responder" aria-checked="false">Responder</button>
+      </div>
+      <div id="plannerSpect">
+        <div class="field"><label for="navStart">Starting location</label><select id="navStart"></select><span class="hint">Or click a section or a QR marker in the scene.</span></div>
+        <div class="field"><label>Destination type</label><div class="dest-grid" id="destGrid" role="radiogroup"></div></div>
+        <div class="field" id="seatField" hidden><label for="navSeat">Assigned section</label><select id="navSeat"></select></div>
+        <div class="field row"><label class="tog"><input type="checkbox" id="navAccess"><span>Step-free route required</span></label><label class="tog"><input type="checkbox" id="navAware" checked><span>Crowd-aware routing</span></label></div>
+        <div class="route-tabs" role="tablist"><button role="tab" data-r="short" aria-selected="false">SHORTEST ROUTE</button><button role="tab" data-r="aware" aria-selected="true">CROWD-AWARE ROUTE</button></div>
+        <div class="route-out" id="routeOut" aria-live="polite"></div>
+      </div>
+      <div id="plannerResp" hidden>
+        <div class="field"><label for="incZone">Incident location</label><select id="incZone"></select><span class="hint">Responders start at the first-aid station.</span></div>
+        <div class="field row"><label class="tog"><input type="checkbox" id="respStairFree"><span>Stretcher: stair-free route</span></label><label class="tog"><input type="checkbox" id="respAware" checked><span>Avoid dense zones, use service corridor</span></label></div>
+        <div class="route-out" id="respOut" aria-live="polite"></div>
+        <button class="btn primary wide" id="dispatchBtn">Dispatch simulated responder</button>
+      </div>
+      <p class="fine">Research demonstration. Routes are computed on synthetic data and are not authorised guidance for real venues or emergencies.</p>
+    </section>
+  </aside>
+
+  <!-- ===================== overlay toolbar ===================== -->
+  <div class="overlaybar glass" id="overlayBar" aria-label="Map overlays">
+    <label class="sw"><input type="checkbox" id="ovDensity" checked><span class="sw-ui"></span><span class="sw-t">DENSITY OVERLAY</span></label>
+    <label class="sr" for="ovMetric">Overlay metric</label>
+    <select id="ovMetric" class="mini-sel">
+      <option value="density">Density</option><option value="occupancy">Occupancy</option><option value="speed">Flow speed</option>
+      <option value="queue">Queue delay</option><option value="predicted">Predicted density</option><option value="uncertainty">Uncertainty</option>
+    </select>
+    <div class="legend" id="legend" aria-label="Legend">
+      <span><i style="background:#698AB0"></i>LOW</span><span><i style="background:#FFB547"></i>MODERATE</span><span><i style="background:#F27868"></i>ELEVATED</span><span><i style="background:#D84E68"></i>HIGH</span>
+    </div>
+    <label class="sw"><input type="checkbox" id="ovFlow" checked><span class="sw-ui"></span><span class="sw-t">FLOW VECTORS</span></label>
+    <label class="sw sm"><input type="checkbox" id="ovSensors" checked><span class="sw-ui"></span><span class="sw-t">SENSORS</span></label>
+    <label class="sw sm"><input type="checkbox" id="ovLabels" checked><span class="sw-ui"></span><span class="sw-t">LABELS</span></label>
+  </div>
+
+  <!-- ===================== replay timeline ===================== -->
+  <section class="replaybar glass" id="replayBar" hidden aria-label="Replay timeline">
+    <div class="rp-controls">
+      <button class="ibtn" id="rpBack" title="Step back 10 s"><svg width="18" height="18"><use href="#i-back"/></svg><span class="sr">Step back</span></button>
+      <button class="ibtn primary" id="rpPlay" title="Play"><svg width="18" height="18"><use href="#i-play" id="rpPlayIcon"/></svg><span class="sr">Play or pause</span></button>
+      <button class="ibtn" id="rpFwd" title="Step forward 10 s"><svg width="18" height="18"><use href="#i-fwd"/></svg><span class="sr">Step forward</span></button>
+      <label class="sr" for="rpRate">Playback speed</label>
+      <select id="rpRate" class="mini-sel"><option value="1">1×</option><option value="2" selected>2×</option><option value="5">5×</option><option value="10">10×</option></select>
+      <button class="btn sm" id="rpAlert">Jump to alert</button>
+      <button class="btn sm" id="rpInterv">Jump to intervention</button>
+      <button class="btn sm" id="rpReset"><svg width="14" height="14"><use href="#i-reset"/></svg>Reset to live</button>
+      <span class="rp-t mono" id="rpT">--</span>
+    </div>
+    <div class="rp-track">
+      <div class="rp-marks" id="rpMarks"></div>
+      <label class="sr" for="rpSlider">Replay time</label>
+      <input type="range" id="rpSlider" min="0" max="100" step="1" value="100">
+      <div class="rp-scale mono"><span id="rpMin">--</span><span id="rpMax">--</span></div>
+    </div>
+  </section>
+
+  <!-- ===================== bottom dock: zones, assets, events ===================== -->
+  <section class="dock glass" id="dock" aria-label="Data tables">
+    <div class="dock-h">
+      <div class="tabs" role="tablist">
+        <button role="tab" data-tab="zones" aria-selected="true">ZONES</button>
+        <button role="tab" data-tab="assets" aria-selected="false">ASSETS</button>
+        <button role="tab" data-tab="events" aria-selected="false">EVENTS <span class="mono dim" id="evCount"></span></button>
+      </div>
+      <div class="ev-filters" id="evFilters" hidden role="group" aria-label="Event filters">
+        <button data-f="all" aria-pressed="true">All</button><button data-f="alert" aria-pressed="false">Alerts</button><button data-f="predict" aria-pressed="false">Predictions</button><button data-f="sim" aria-pressed="false">Simulations</button><button data-f="operator" aria-pressed="false">Operator actions</button><button data-f="route" aria-pressed="false">Routing changes</button>
+      </div>
+      <span class="dock-note mono">SYNTHETIC</span>
+    </div>
+    <div class="dock-body" id="dockBody" tabindex="0"></div>
+  </section>
+
+  <!-- ===================== right panel ===================== -->
+  <aside class="right glass" id="right" aria-label="Details" aria-live="polite">
+    <div class="right-body" id="rightBody" tabindex="0"></div>
+  </aside>
+
+  <!-- ===================== scenario lab ===================== -->
+  <aside class="lab glass" id="lab" hidden aria-label="Scenario lab">
+    <div class="lab-h">
+      <div><span class="eyebrow">SIMULATE INTERVENTION</span><h2>SCENARIO LAB</h2></div>
+      <button class="ibtn" id="labClose" title="Close scenario lab"><svg width="18" height="18"><use href="#i-close"/></svg><span class="sr">Close</span></button>
+    </div>
+    <div class="lab-body" id="labBody" tabindex="0"></div>
+  </aside>
+
+  <!-- ===================== mobile sheet tabs ===================== -->
+  <nav class="sheet-tabs glass" id="sheetTabs" aria-label="Panels">
+    <button data-sheet="right" aria-pressed="true">Details</button>
+    <button data-sheet="kpi" aria-pressed="false">KPIs</button>
+    <button data-sheet="dock" aria-pressed="false">Tables</button>
+    <button data-sheet="process" aria-pressed="false">Pipeline</button>
+    <button data-sheet="ctx" aria-pressed="false" id="sheetCtx">Lab</button>
+  </nav>
+
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+
+  <!-- ===================== dialogs ===================== -->
+  <div class="modal" id="modal" hidden role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-card glass">
+      <div class="modal-h"><h2 id="modalTitle">Research targets</h2><button class="ibtn" id="modalClose"><svg width="18" height="18"><use href="#i-close"/></svg><span class="sr">Close</span></button></div>
+      <div class="modal-b" id="modalBody"></div>
+    </div>
+  </div>
+  <div class="loading" id="loading"><div class="ld glass"><span class="spinner" aria-hidden="true"></span><span id="loadingT">Building the procedural stadium and synthetic game day…</span></div></div>
+</div>
+<!-- three.js r147 (MIT) and OrbitControls, vendored so the demo also works offline -->
+<script src="vendor/three/three.min.js"></script>
+<script src="vendor/three/OrbitControls.js"></script>
+<!-- STADIUM-DT application code, loaded in order (plain scripts share top-level declarations) -->
+<script src="js/01-core.js"></script>
+<script src="js/02-venue-schedule.js"></script>
+<script src="js/03-flow-model.js"></script>
+<script src="js/04-twin-sensing-fusion.js"></script>
+<script src="js/05-scenarios.js"></script>
+<script src="js/06-walk-graph-routing.js"></script>
+<script src="js/07-scene.js"></script>
+<script src="js/08-agents.js"></script>
+<script src="js/09-view.js"></script>
+<script src="js/10-interface.js"></script>
+<script src="js/11-operations.js"></script>
+<script src="js/12-main.js"></script>
+</body>
+</html>

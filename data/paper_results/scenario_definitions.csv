@@ -1,0 +1,10 @@
+scenario,context,intervention
+Close Gate B,ingress,Gate B (10 lanes) closed; its arrivals and queue move to the open gates
+Open Gate D,ingress,auxiliary Gate D (6 lanes) opened
+Close Stair 2,egress,Stair 2 from the upper seats closed; its flow moves to Stair 1
+Narrow W-015,egress,zone W-015 reduced to 50% of its width
+Halftime measures,amenity,crowd-aware guidance for 85% of spectators and four extra windows at Concession B
+Responder lane,medical,reserved lane and service-corridor access for a responder to W-014
+Weather egress,evacuation,"Gate D opened, guidance for 85%, and phased release of the lower bowl"
+Mass-exit measures,egress,guidance for 85% of spectators and Gate D opened
+Guidance share 0.7,ingress,share of spectators following crowd-aware guidance raised from 0.25 to 0.7

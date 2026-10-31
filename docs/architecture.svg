@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 505" width="1000" height="505" font-family="Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#222"/></marker>
+    <marker id="ahg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6.5" markerHeight="6.5" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#555"/></marker>
+    <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="6" stroke="#b5b5b5" stroke-width="1.6"/></pattern>
+    <style>
+      .band{fill:#f3f3f3;stroke:#9a9a9a;stroke-width:1}
+      .h1{font-size:13px;font-weight:700;fill:#111;letter-spacing:0.4px}
+      .h2{font-size:12px;fill:#333}
+      .box{fill:#fff;stroke:#333;stroke-width:1.2}
+      .boxA{fill:#e2e2e2;stroke:#222;stroke-width:1.2}
+      .prop{fill:#fff;stroke:#666;stroke-width:1.1;stroke-dasharray:4 3}
+      .tb{font-size:12.5px;font-weight:700;fill:#111}
+      .ts{font-size:11.5px;fill:#222}
+      .ti{font-size:11.5px;fill:#444;font-style:italic}
+      .ln{stroke:#222;stroke-width:1.3;fill:none}
+      .lnd{stroke:#555;stroke-width:1.2;fill:none;stroke-dasharray:5 3}
+      .lab{font-size:11px;fill:#222}
+    </style>
+  </defs>
+  <rect width="1000" height="505" fill="#fff"/>
+
+  <!-- bands -->
+  <rect class="band" x="8" y="6" width="180" height="452" rx="5"/>
+  <rect class="band" x="198" y="6" width="180" height="452" rx="5"/>
+  <rect class="band" x="398" y="6" width="210" height="452" rx="5"/>
+  <rect class="band" x="618" y="6" width="198" height="452" rx="5"/>
+  <rect class="band" x="836" y="6" width="158" height="452" rx="5"/>
+  <text class="h1" x="98" y="24" text-anchor="middle">L1 · SENSING</text>
+  <text class="h2" x="98" y="40" text-anchor="middle">physical environment (emulated)</text>
+  <text class="h1" x="288" y="24" text-anchor="middle">L2 · EDGE</text>
+  <text class="h2" x="288" y="40" text-anchor="middle">privacy-aware processing</text>
+  <text class="h1" x="503" y="24" text-anchor="middle">L3 · TWIN CORE</text>
+  <text class="h2" x="503" y="40" text-anchor="middle">estimation and shared model</text>
+  <text class="h1" x="717" y="24" text-anchor="middle">L4 · ANALYTICS</text>
+  <text class="h2" x="717" y="40" text-anchor="middle">prediction, decision support</text>
+  <text class="h1" x="915" y="24" text-anchor="middle">L5 · CONSOLE</text>
+  <text class="h2" x="915" y="40" text-anchor="middle">operator interface, audit</text>
+
+  <!-- L1 -->
+  <rect class="box" x="16" y="52" width="164" height="62" rx="3"/>
+  <text class="tb" x="98" y="68" text-anchor="middle">Pilot concourse</text>
+  <text class="ts" x="98" y="83" text-anchor="middle">10 zones W-010…019,</text>
+  <text class="ts" x="98" y="96" text-anchor="middle">gates, portals, stairs,</text>
+  <text class="ts" x="98" y="109" text-anchor="middle">amenities, first aid</text>
+  <rect class="box" x="16" y="124" width="164" height="62" rx="3"/>
+  <text class="tb" x="98" y="140" text-anchor="middle">CCTV nodes (8)</text>
+  <text class="ti" x="98" y="157" text-anchor="middle">occlusion: density-</text>
+  <text class="ti" x="98" y="171" text-anchor="middle">dependent undercount</text>
+  <rect class="box" x="16" y="196" width="164" height="62" rx="3"/>
+  <text class="tb" x="98" y="212" text-anchor="middle">WiFi APs (5)</text>
+  <text class="ti" x="98" y="229" text-anchor="middle">devices ≠ people; ratio</text>
+  <text class="ti" x="98" y="243" text-anchor="middle">drifts; up to 30 s lag</text>
+  <rect class="box" x="16" y="268" width="164" height="62" rx="3"/>
+  <text class="tb" x="98" y="284" text-anchor="middle">Turnstiles (4)</text>
+  <text class="ti" x="98" y="301" text-anchor="middle">entries at gates only,</text>
+  <text class="ti" x="98" y="315" text-anchor="middle">not the concourse</text>
+  <rect class="box" x="16" y="340" width="164" height="62" rx="3"/>
+  <text class="tb" x="98" y="356" text-anchor="middle">Context feeds</text>
+  <text class="ts" x="98" y="373" text-anchor="middle">asset status, incidents,</text>
+  <text class="ts" x="98" y="387" text-anchor="middle">weather, game phase</text>
+
+  <!-- L2 -->
+  <rect x="206" y="52" width="164" height="62" rx="3" fill="url(#hatch)" stroke="#333" stroke-width="1.2"/>
+  <rect x="211" y="56" width="154" height="54" rx="2" fill="#fff" fill-opacity="0.9"/>
+  <text class="tb" x="288" y="67" text-anchor="middle">Kept at edge</text>
+  <text class="ts" x="288" y="81" text-anchor="middle">video, face crops, track</text>
+  <text class="ts" x="288" y="94" text-anchor="middle">IDs, MAC addresses,</text>
+  <text class="ts" x="288" y="106" text-anchor="middle">ticket identities</text>
+  <rect class="box" x="206" y="124" width="164" height="62" rx="3"/>
+  <text class="tb" x="288" y="140" text-anchor="middle">Edge video analytics</text>
+  <text class="ts" x="288" y="157" text-anchor="middle">count, flows, speed,</text>
+  <text class="ts" x="288" y="171" text-anchor="middle">direction, queue · 1 Hz</text>
+  <rect class="box" x="206" y="196" width="164" height="62" rx="3"/>
+  <text class="tb" x="288" y="212" text-anchor="middle">AP aggregation</text>
+  <text class="ts" x="288" y="229" text-anchor="middle">device count per</text>
+  <text class="ts" x="288" y="243" text-anchor="middle">30 s window</text>
+  <rect class="box" x="206" y="268" width="164" height="62" rx="3"/>
+  <text class="tb" x="288" y="284" text-anchor="middle">Gate controller</text>
+  <text class="ts" x="288" y="301" text-anchor="middle">entries per 60 s,</text>
+  <text class="ts" x="288" y="315" text-anchor="middle">lanes, status · 1 Hz</text>
+  <rect class="prop" x="206" y="412" width="164" height="38" rx="3"/>
+  <text class="ti" x="288" y="427" text-anchor="middle">PROPOSED: small-count</text>
+  <text class="ti" x="288" y="442" text-anchor="middle">suppression / Laplace noise</text>
+
+  <!-- L1 -> L2 -->
+  <line class="ln" x1="180" y1="155" x2="204" y2="155" marker-end="url(#ah)"/>
+  <line class="ln" x1="180" y1="227" x2="204" y2="227" marker-end="url(#ah)"/>
+  <line class="ln" x1="180" y1="299" x2="204" y2="299" marker-end="url(#ah)"/>
+  <!-- L2 -> boundary -> collector -->
+  <line class="ln" x1="370" y1="155" x2="406" y2="155"/>
+  <line class="ln" x1="370" y1="227" x2="406" y2="227"/>
+  <line class="ln" x1="370" y1="299" x2="406" y2="299"/>
+  <line class="ln" x1="180" y1="371" x2="406" y2="371"/>
+  <text class="lab" x="288" y="365" text-anchor="middle">context (already aggregate)</text>
+  <line class="ln" x1="406" y1="371" x2="406" y2="100"/>
+  <line class="ln" x1="406" y1="100" x2="418" y2="100" marker-end="url(#ah)"/>
+
+  <!-- boundary -->
+  <line x1="389" y1="2" x2="389" y2="462" stroke="#000" stroke-width="3.2" stroke-dasharray="11 6"/>
+  <rect x="380" y="128" width="18" height="250" fill="#fff" stroke="#000" stroke-width="1.2" rx="2"/>
+  <text x="393" y="253" transform="rotate(-90 393 253)" text-anchor="middle" font-size="11.5px" font-weight="700" fill="#000">AGGREGATE-ONLY BOUNDARY (≈ 2.1 kB/s)</text>
+
+  <!-- L3 -->
+  <rect class="box" x="420" y="52" width="180" height="62" rx="3"/>
+  <text class="tb" x="510" y="68" text-anchor="middle">(1) Ingestion</text>
+  <text class="ts" x="510" y="85" text-anchor="middle">clock, zone IDs, SI units,</text>
+  <text class="ts" x="510" y="99" text-anchor="middle">per-source variance</text>
+  <rect class="box" x="420" y="134" width="180" height="62" rx="3"/>
+  <text class="tb" x="510" y="150" text-anchor="middle">(2) Per-zone fusion ◆</text>
+  <text class="ts" x="510" y="167" text-anchor="middle">inverse-variance update,</text>
+  <text class="ts" x="510" y="181" text-anchor="middle">model prior · 1 Hz</text>
+  <rect class="boxA" x="420" y="216" width="180" height="62" rx="3"/>
+  <text class="tb" x="510" y="232" text-anchor="middle">(3) Fused crowd state</text>
+  <text class="ts" x="510" y="249" text-anchor="middle">N̂, k̂, v̂, flows, queues,</text>
+  <text class="ts" x="510" y="263" text-anchor="middle">uncertainty σ̂, confidence</text>
+  <rect x="420" y="298" width="180" height="84" rx="4" fill="#fff" stroke="#000" stroke-width="2.6"/>
+  <rect x="424" y="302" width="172" height="76" rx="3" fill="none" stroke="#000" stroke-width="0.8"/>
+  <text class="tb" x="510" y="318" text-anchor="middle">◆ SHARED ZONE-FLOW</text>
+  <text class="tb" x="510" y="333" text-anchor="middle">PROCESS MODEL</text>
+  <text class="ts" x="510" y="350" text-anchor="middle">streams, Little's law, v(k),</text>
+  <text class="ts" x="510" y="364" text-anchor="middle">backlogs, queues, logit choice</text>
+  <rect class="prop" x="420" y="398" width="180" height="52" rx="3"/>
+  <text class="ti" x="510" y="415" text-anchor="middle">PROPOSED: per-source</text>
+  <text class="ti" x="510" y="429" text-anchor="middle">innovation monitoring</text>
+  <text class="ti" x="510" y="443" text-anchor="middle">(biased / compromised nodes)</text>
+  <line class="ln" x1="510" y1="114" x2="510" y2="132" marker-end="url(#ah)"/>
+  <line class="ln" x1="510" y1="196" x2="510" y2="214" marker-end="url(#ah)"/>
+  <path class="ln" d="M600 340 L604 340 L604 165 L602 165" marker-end="url(#ah)"/>
+  <text class="lab" x="596" y="210" text-anchor="end">prior</text>
+
+  <!-- state bus to L4 -->
+  <path class="ln" d="M600 247 L612 247"/>
+  <line class="ln" x1="612" y1="83" x2="612" y2="325"/>
+  <line class="ln" x1="612" y1="83" x2="624" y2="83" marker-end="url(#ah)"/>
+  <line class="ln" x1="612" y1="155" x2="624" y2="155" marker-end="url(#ah)"/>
+  <line class="ln" x1="612" y1="239" x2="624" y2="239" marker-end="url(#ah)"/>
+  <line class="ln" x1="612" y1="325" x2="624" y2="325" marker-end="url(#ah)"/>
+
+  <!-- L4 -->
+  <rect class="box" x="626" y="52" width="182" height="62" rx="3"/>
+  <text class="tb" x="717" y="68" text-anchor="middle">(4a) Anomaly rules</text>
+  <text class="ts" x="717" y="85" text-anchor="middle">every 2 s; P = 6 s onset,</text>
+  <text class="ts" x="717" y="99" text-anchor="middle">20 s clearing hold</text>
+  <rect class="box" x="626" y="124" width="182" height="62" rx="3"/>
+  <text class="tb" x="717" y="140" text-anchor="middle">(5a) Scenario engine ◆</text>
+  <text class="ts" x="717" y="157" text-anchor="middle">baseline vs intervention,</text>
+  <text class="ts" x="717" y="171" text-anchor="middle">clearance + peak density</text>
+  <rect class="box" x="626" y="208" width="182" height="62" rx="3"/>
+  <text class="tb" x="717" y="224" text-anchor="middle">(4b) Forecaster ◆</text>
+  <text class="ts" x="717" y="241" text-anchor="middle">k at +2 / +5 min, ETA;</text>
+  <text class="ts" x="717" y="255" text-anchor="middle">insertion + rate correction</text>
+  <rect class="box" x="626" y="294" width="182" height="62" rx="3"/>
+  <text class="tb" x="717" y="310" text-anchor="middle">(5b) Crowd-aware router ◆</text>
+  <text class="ts" x="717" y="327" text-anchor="middle">generalised-cost Dijkstra;</text>
+  <text class="ts" x="717" y="341" text-anchor="middle">spectator, access, responder</text>
+  <line class="ln" x1="690" y1="270" x2="690" y2="292" marker-end="url(#ah)"/>
+  <text class="lab" x="696" y="285">+2 min forecast</text>
+  <rect class="boxA" x="660" y="390" width="148" height="56" rx="3"/>
+  <text class="tb" x="734" y="407" text-anchor="middle">Recommendation</text>
+  <text class="tb" x="734" y="422" text-anchor="middle">load Lⱼ, Rₘ</text>
+  <text class="ts" x="734" y="438" text-anchor="middle">decay τ = 180 s</text>
+  <line class="ln" x1="780" y1="356" x2="780" y2="388" marker-end="url(#ah)"/>
+  <line class="ln" x1="690" y1="390" x2="690" y2="358" marker-end="url(#ah)"/>
+  <text class="lab" x="786" y="377">issued</text>
+  <text class="lab" x="632" y="378">feedback</text>
+
+  <!-- L4 -> L5 bus -->
+  <line class="ln" x1="808" y1="83" x2="826" y2="83"/>
+  <line class="ln" x1="808" y1="155" x2="826" y2="155"/>
+  <line class="ln" x1="808" y1="239" x2="826" y2="239"/>
+  <line class="ln" x1="808" y1="325" x2="826" y2="325"/>
+  <line class="ln" x1="826" y1="72" x2="826" y2="325"/>
+  <line class="ln" x1="826" y1="72" x2="842" y2="72" marker-end="url(#ah)"/>
+  <line class="ln" x1="826" y1="122" x2="842" y2="122" marker-end="url(#ah)"/>
+  <line class="ln" x1="826" y1="172" x2="842" y2="172" marker-end="url(#ah)"/>
+  <line class="ln" x1="826" y1="222" x2="842" y2="222" marker-end="url(#ah)"/>
+  <line class="ln" x1="826" y1="272" x2="842" y2="272" marker-end="url(#ah)"/>
+
+  <!-- L5 -->
+  <g>
+    <rect class="box" x="844" y="52" width="142" height="42" rx="3"/>
+    <text class="tb" x="915" y="68" text-anchor="middle">MIRROR</text>
+    <text class="ts" x="915" y="85" text-anchor="middle">current state, alerts</text>
+    <rect class="box" x="844" y="102" width="142" height="42" rx="3"/>
+    <text class="tb" x="915" y="118" text-anchor="middle">PREDICT</text>
+    <text class="ts" x="915" y="135" text-anchor="middle">+2 / +5 min, ETA</text>
+    <rect class="box" x="844" y="152" width="142" height="42" rx="3"/>
+    <text class="tb" x="915" y="168" text-anchor="middle">SIMULATE</text>
+    <text class="ts" x="915" y="185" text-anchor="middle">baseline vs intervention</text>
+    <rect class="box" x="844" y="202" width="142" height="42" rx="3"/>
+    <text class="tb" x="915" y="218" text-anchor="middle">NAVIGATE</text>
+    <text class="ts" x="915" y="235" text-anchor="middle">shortest vs crowd-aware</text>
+    <rect class="box" x="844" y="252" width="142" height="42" rx="3"/>
+    <text class="tb" x="915" y="268" text-anchor="middle">REPLAY</text>
+    <text class="ts" x="915" y="285" text-anchor="middle">frames every 2 s</text>
+    <rect class="boxA" x="844" y="306" width="142" height="80" rx="3"/>
+    <text class="tb" x="915" y="323" text-anchor="middle">Audit log and</text>
+    <text class="tb" x="915" y="338" text-anchor="middle">human oversight</text>
+    <text class="ts" x="915" y="355" text-anchor="middle">time-stamped actions;</text>
+    <text class="ts" x="915" y="369" text-anchor="middle">all outputs advisory,</text>
+    <text class="ts" x="915" y="383" text-anchor="middle">labelled simulated</text>
+  </g>
+
+  <!-- human-in-the-loop return path -->
+  <path class="lnd" d="M915 386 L915 486 L4 486 L4 83 L14 83" marker-end="url(#ahg)"/>
+  <text class="lab" x="500" y="500" text-anchor="middle">operator decision → staff action on the venue (deployment only; acts on the simulated venue in the reference implementation)</text>
+  <!-- legend -->
+  <text class="lab" x="836" y="478" text-anchor="start"></text>
+  <text class="lab" x="630" y="478">◆ runs the shared model · dashed box = proposed</text>
+</svg>

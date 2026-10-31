@@ -1,0 +1,192 @@
+time,segment,category,text
+18:55:17,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+18:56:03,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+18:57:09,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+18:57:53,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-014
+18:58:41,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+18:58:53,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+18:59:37,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:00:15,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:00:41,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:00:49,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:00:53,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:01:13,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:01:39,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:02:01,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:03:49,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:03:59,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:04:05,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:04:27,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:04:33,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:04:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:05:53,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:05:57,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:06:19,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:06:29,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:06:33,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:06:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:06:53,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:06:59,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:07:01,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:07:05,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:07:21,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:07:23,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:07:27,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:07:43,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:07:59,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:07:59,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:08:05,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:08:07,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:08:31,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:08:33,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:08:43,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:08:57,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:09:07,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:09:15,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:09:31,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:09:39,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:09:41,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:09:47,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:10:05,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:10:13,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:10:21,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:10:23,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:10:23,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:10:25,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:10:27,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:10:59,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:11:01,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:11:01,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:11:15,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:11:19,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:11:21,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:11:27,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:11:29,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:11:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:11:53,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:12:03,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-017
+19:12:25,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-017
+19:12:29,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-015
+19:12:29,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:12:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:12:49,A_continuous_18:30-22:33,alert,HIGH DENSITY in CONC-W-014
+19:13:11,A_continuous_18:30-22:33,alert,Cleared: high density in CONC-W-014
+19:13:21,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:13:25,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:13:27,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:13:27,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-015
+19:13:41,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:13:41,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:13:47,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:13:55,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:14:01,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:14:29,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:14:33,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:14:37,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-017
+19:14:37,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:14:41,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:15:01,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:15:03,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:15:05,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:15:05,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:15:05,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-017
+19:15:11,A_continuous_18:30-22:33,alert,HIGH DENSITY in CONC-W-014
+19:15:41,A_continuous_18:30-22:33,alert,Cleared: high density in CONC-W-014
+19:15:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:15:43,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:15:47,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:15:49,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:16:09,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:16:11,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:16:25,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:16:47,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:16:47,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:17:05,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:17:09,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:17:11,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:17:13,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-015
+19:17:21,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:17:29,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-017
+19:17:35,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-015
+19:17:47,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:17:53,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-017
+19:17:55,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-012
+19:18:03,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:18:05,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:18:33,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-012
+19:18:41,A_continuous_18:30-22:33,alert,QUEUE SPILLOVER at Concession B in CONC-W-015
+19:18:43,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:18:43,A_continuous_18:30-22:33,alert,QUEUE SPILLOVER at Concession A in CONC-W-013
+19:18:47,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:18:55,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:19:21,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:19:21,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:20:09,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:20:41,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:20:57,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:21:11,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:21:25,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:21:27,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:21:45,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+19:21:57,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:22:07,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+19:22:47,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:23:23,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+19:23:47,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+19:24:47,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-014
+19:24:47,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:25:07,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:25:43,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:27:25,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-014
+19:28:13,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-014
+19:39:19,A_continuous_18:30-22:33,alert,Cleared: queue spillover in CONC-W-013
+19:39:33,A_continuous_18:30-22:33,alert,Cleared: queue spillover in CONC-W-015
+20:56:51,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+20:56:55,A_continuous_18:30-22:33,alert,QUEUE SPILLOVER at Concession B in CONC-W-015
+20:56:57,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+20:57:01,A_continuous_18:30-22:33,alert,QUEUE SPILLOVER at Concession A in CONC-W-013
+20:57:37,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-013
+20:57:43,A_continuous_18:30-22:33,alert,COUNTER-FLOW DETECTED in CONC-W-015
+21:00:13,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+21:00:21,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+21:00:31,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+21:00:37,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-015
+21:00:41,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-015
+21:00:41,A_continuous_18:30-22:33,alert,Cleared: counter-flow detected in CONC-W-013
+21:01:01,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+21:01:03,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-015
+21:01:29,A_continuous_18:30-22:33,alert,CONGESTION DEVELOPING in CONC-W-013
+21:02:09,A_continuous_18:30-22:33,alert,Cleared: congestion developing in CONC-W-013
+21:06:53,A_continuous_18:30-22:33,alert,Cleared: queue spillover in CONC-W-013
+21:07:13,A_continuous_18:30-22:33,alert,Cleared: queue spillover in CONC-W-015
+22:34:00,B_postgame_reinit_22:34,predict,Bottleneck forecast: CONC-W-014 reaches 3.5 p/m² in 00:48
+22:34:07,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-012
+22:34:07,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-014
+22:34:07,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-015
+22:34:07,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-016
+22:34:07,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-017
+22:34:07,B_postgame_reinit_22:34,alert,STAIR BOTTLENECK at Stair 1 in CONC-W-016
+22:34:07,B_postgame_reinit_22:34,alert,STAIR BOTTLENECK at Stair 2 in CONC-W-017
+22:34:45,B_postgame_reinit_22:34,alert,CONGESTION DEVELOPING in CONC-W-014
+22:34:47,B_postgame_reinit_22:34,alert,COUNTER-FLOW DETECTED in CONC-W-014
+22:35:01,B_postgame_reinit_22:34,alert,HIGH DENSITY in CONC-W-014
+22:35:03,B_postgame_reinit_22:34,alert,MOVEMENT SLOWDOWN in CONC-W-014
+22:35:07,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-012
+22:35:11,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-015
+22:35:15,B_postgame_reinit_22:34,alert,Cleared: congestion developing in CONC-W-014
+22:35:21,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-016
+22:35:35,B_postgame_reinit_22:34,alert,CONGESTION DEVELOPING in CONC-W-017
+22:37:45,B_postgame_reinit_22:34,alert,Cleared: congestion developing in CONC-W-017
+22:38:11,B_postgame_reinit_22:34,alert,CONGESTION DEVELOPING in CONC-W-017
+22:38:23,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-014
+22:39:01,B_postgame_reinit_22:34,alert,Cleared: congestion developing in CONC-W-017
+22:39:35,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-017
+22:39:51,B_postgame_reinit_22:34,alert,CAPACITY CONSTRAINT in CONC-W-014
+22:40:23,B_postgame_reinit_22:34,alert,Cleared: stair bottleneck in CONC-W-016
+22:40:23,B_postgame_reinit_22:34,alert,Cleared: stair bottleneck in CONC-W-017
+22:40:35,B_postgame_reinit_22:34,alert,Cleared: movement slowdown in CONC-W-014
+22:40:51,B_postgame_reinit_22:34,alert,Cleared: counter-flow detected in CONC-W-014
+22:40:51,B_postgame_reinit_22:34,alert,Cleared: high density in CONC-W-014
+22:41:11,B_postgame_reinit_22:34,alert,Cleared: capacity constraint in CONC-W-014
+22:41:13,B_postgame_reinit_22:34,alert,CONGESTION DEVELOPING in CONC-W-014
+22:41:39,B_postgame_reinit_22:34,alert,Cleared: congestion developing in CONC-W-014

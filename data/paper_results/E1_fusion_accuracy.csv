@@ -1,0 +1,37 @@
+prior,sources,window,mape_pct,coverage_95,effective_lag_s
+P1,all,pre-game,4.2,0.82,14
+P1,all,halftime,3.5,0.94,3
+P1,all,post-game,3.5,0.96,0
+P1,no WiFi,pre-game,4.1,0.84,8
+P1,no WiFi,halftime,3.8,0.93,0
+P1,no WiFi,post-game,3.9,0.95,0
+P1,no turnstiles,pre-game,4.2,0.82,14
+P1,no turnstiles,halftime,3.6,0.94,4
+P1,no turnstiles,post-game,3.5,0.96,0
+P1,no cameras,pre-game,10.3,0.69,37
+P1,no cameras,halftime,15.5,0.65,36
+P1,no cameras,post-game,9.1,0.89,37
+P1,"no cameras, no WiFi",pre-game,0.4,1.00,0
+P1,"no cameras, no WiFi",halftime,3.5,1.00,0
+P1,"no cameras, no WiFi",post-game,7.0,1.00,2
+P5,all,pre-game,4.2,0.82,14
+P5,all,halftime,3.5,0.94,3
+P5,all,post-game,3.5,0.96,0
+P5,no WiFi,pre-game,4.1,0.84,8
+P5,no WiFi,halftime,3.8,0.93,0
+P5,no WiFi,post-game,3.9,0.95,0
+P5,no cameras,pre-game,10.3,0.69,36
+P5,no cameras,halftime,15.5,0.65,36
+P5,no cameras,post-game,9.1,0.89,37
+P5,"no cameras, no WiFi",pre-game,2.1,1.00,3
+P5,"no cameras, no WiFi",halftime,17.3,0.99,1
+P5,"no cameras, no WiFi",post-game,31.6,0.95,14
+RW,all,pre-game,4.3,0.87,16
+RW,all,halftime,4.0,0.93,6
+RW,all,post-game,3.5,0.97,1
+RW,no WiFi,pre-game,4.2,0.88,10
+RW,no WiFi,halftime,4.1,0.93,3
+RW,no WiFi,post-game,3.8,0.96,0
+RW,no cameras,pre-game,10.7,0.74,40
+RW,no cameras,halftime,18.2,0.64,47
+RW,no cameras,post-game,9.7,0.89,42

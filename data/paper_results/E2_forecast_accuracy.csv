@@ -1,0 +1,7 @@
+method,mae_2min_pregame,mae_2min_halftime,mae_2min_postgame,mae_2min_all,mae_5min_all,skill_2min_vs_persistence,threshold_event_f1,eta_median_abs_error_s
+Persistence,0.131,0.351,0.117,0.180,0.366,,,
+Trend (60 s slope),0.209,0.236,0.154,0.201,0.483,-0.11,0.19,42
+Open loop,0.182,0.070,0.020,0.112,0.113,0.38,0.36,17
+Insertion (TWIN_I),0.173,0.040,0.011,0.098,0.102,0.46,0.45,50
+Insertion + rate (TWIN_IR),0.079,0.031,0.011,0.050,0.052,0.73,0.72,20
+Oracle (upper bound),0.004,0.009,0.003,0.005,0.003,0.97,0.91,7

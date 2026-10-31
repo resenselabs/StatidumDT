@@ -1,0 +1,13 @@
+group,rule,episodes_detected,episodes_total,median_latency_s,p90_latency_s,detected_within_30s,false_alarms_in_340_zone_hours,false_alarms_per_zone_hour
+"P1-ALL, point estimate, onset persistence P",P = 0 s,14,19,36,98,5,2,0.006
+"P1-ALL, point estimate, onset persistence P",P = 2 s,13,19,37,93,5,1,0.003
+"P1-ALL, point estimate, onset persistence P",P = 6 s (released),13,19,41,97,5,1,0.003
+"P1-ALL, point estimate, onset persistence P",P = 12 s,12,19,48,94,3,1,0.003
+"P1-ALL, point estimate, onset persistence P",P = 20 s,12,19,56,102,2,0,0.000
+"P1-ALL, uncertainty-aware, P = 6 s",z = 0.5,17,19,45,108,5,2,0.006
+"P1-ALL, uncertainty-aware, P = 6 s",z = 1,19,19,29,98,10,8,0.024
+"P1-ALL, uncertainty-aware, P = 6 s",z = 1.645,19,19,17,49,15,25,0.074
+"Other configurations, point estimate, P = 6 s",P5-ALL,13,19,41,97,5,1,0.003
+"Other configurations, point estimate, P = 6 s",RW-ALL,13,19,42,92,5,1,0.003
+"Other configurations, point estimate, P = 6 s",P1-NO-CCTV,16,19,10,101,11,45,0.132
+"Other configurations, point estimate, P = 6 s",RW-NO-CCTV,16,19,12,97,11,60,0.176

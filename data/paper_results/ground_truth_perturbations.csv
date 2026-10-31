@@ -1,0 +1,6 @@
+quantity,distribution,affects
+Arrival demand multiplier m_d,"N[0.8,1.2](1, 0.10^2)",pre-game arrivals
+Shift of the arrival profile,"U(-300, 300) s",pre-game arrivals
+Amenity trip-rate multiplier,"N[0.7,1.3](1, 0.15^2)",concession and restroom demand
+Screening rate per lane,"N[0.85,1.15](1, 0.06^2)",gate capacity
+Exit capacity multiplier,"N[0.8,1.2](1, 0.08^2)",egress discharge

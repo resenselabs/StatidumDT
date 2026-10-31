@@ -1,0 +1,6 @@
+source,rate,fields,bytes_per_record_or_total,unit
+Camera node (8),1 Hz,"One record per covered zone (15 per second): timestamp, node, zone, count, inflow, outflow, mean speed, direction, queue length",119,bytes per record
+WiFi access point (5),1/30 Hz,"Window end, access point, zones covered, associated-device count, window length",97,bytes per record
+Turnstile controller (4),1 Hz,"Timestamp, gate, lanes open, entries in last 60 s, status",75,bytes per record
+Total ingress for the pilot,,,2101,bytes per second
+Fused zone state published by the twin (10 records per second),,,1160,bytes per second

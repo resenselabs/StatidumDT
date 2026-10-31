@@ -1,0 +1,14 @@
+{
+  "name": "stadium-dt",
+  "version": "1.0.0",
+  "description": "Concept demonstration of a privacy-aware crowd digital twin for a stadium concourse (synthetic data only).",
+  "private": true,
+  "scripts": {
+    "start": "node tools/serve.js 8080",
+    "test": "node tools/smoke-test.js",
+    "generate-data": "node tools/generate-dataset.js"
+  },
+  "devDependencies": {
+    "playwright": "^1.40.0"
+  }
+}

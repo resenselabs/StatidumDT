@@ -1,0 +1,19 @@
+evaluation_variant,facility,policy,mean_total_time_min,largest_share_to_one_facility
+Released evaluation,Restroom,nearest,9.4,0.59
+Released evaluation,Restroom,aware_static,9.4,0.59
+Released evaluation,Restroom,aware_feedback,6.2,0.45
+Released evaluation,Food,nearest,17.1,0.59
+Released evaluation,Food,aware_static,11.5,0.70
+Released evaluation,Food,aware_feedback,6.0,0.77
+Pilot facilities only,Restroom,nearest,9.4,0.59
+Pilot facilities only,Restroom,aware_static,9.4,0.59
+Pilot facilities only,Restroom,aware_feedback,9.2,0.52
+Pilot facilities only,Food,nearest,17.1,0.59
+Pilot facilities only,Food,aware_static,17.1,0.59
+Pilot facilities only,Food,aware_feedback,16.6,0.51
+Off-pilot with queue,Restroom,nearest,9.4,0.59
+Off-pilot with queue,Restroom,aware_static,9.4,0.59
+Off-pilot with queue,Restroom,aware_feedback,7.9,0.46
+Off-pilot with queue,Food,nearest,17.1,0.59
+Off-pilot with queue,Food,aware_static,19.2,0.70
+Off-pilot with queue,Food,aware_feedback,12.6,0.39
